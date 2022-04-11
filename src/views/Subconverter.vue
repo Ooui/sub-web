@@ -282,6 +282,21 @@ export default {
             ]
           },
           {
+            label: "Ooui",
+            options: [
+              {
+                label: "AnthonCloud",
+                value:
+                  "https://raw.githubusercontent.com/Ooui/now-subconverter/master/AnthonCloud.ini"
+              },
+              {
+                label: "ACmini",
+                value:
+                  "https://raw.githubusercontent.com/Ooui/now-subconverter/master/ACmini.ini"
+              }
+            ]
+          },
+          {
             label: "ACL4SSR",
             options: [
               {
@@ -403,21 +418,6 @@ export default {
               {
                 label: "ACL4SSR_WithGFW 本地 GFW列表",
                 value: "config/ACL4SSR_WithGFW.ini"
-              }
-            ]
-          },
-          {
-            label: "universal",
-            options: [
-              {
-                label: "AnthonCloud",
-                value:
-                  "https://raw.githubusercontent.com/Ooui/now-subconverter/master/AnthonCloud.ini"
-              },
-              {
-                label: "ACmini",
-                value:
-                  "https://raw.githubusercontent.com/Ooui/now-subconverter/master/ACmini.ini"
               }
             ]
           },
